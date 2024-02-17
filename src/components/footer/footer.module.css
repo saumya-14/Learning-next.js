@@ -1,0 +1,14 @@
+.container{
+  color: gray;
+    
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    font-weight: bold;
+}
+.heart{
+    color: red;
+}
