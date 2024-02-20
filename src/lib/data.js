@@ -27,7 +27,7 @@ export const getPosts = async () => {
     throw new Error("Failed to fetch posts");
   }
 };
-
+ 
 export const getPostBySlug = async (slug) => {
   try {
     connectToDb();
